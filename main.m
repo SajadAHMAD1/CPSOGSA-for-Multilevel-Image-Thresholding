@@ -3,7 +3,7 @@
 %              CPSOGSA for Multilevel Image Thresholding
 % 
 
-%Publication: Rather, S. A., & Bala, P. S. (2021). Constriction Coefficient Based Particle Swarm Optimization and Gravitational Search Algorithm for Multilevel Image Thresholding. Expert Systems, doi: 10.1111/exsy.12717, Wiley, SCIE (I.F = 1.546)%% 
+%Publication: Rather, S. A., & Bala, P. S. (2021). Constriction Coefficient Based Particle Swarm Optimization and Gravitational Search Algorithm for Multilevel Image Thresholding. Expert Systems, doi: 10.1111/exsy.12717, Wiley, SCIE (I.F = 2.587)%% 
 
 
 %   Programmer: Sajad Ahmad Rather      
