@@ -7,7 +7,7 @@
 
 
 %   Programmer: Sajad Ahmad Rather      
-%   Developed in MATLAB R2013a 
+%   Developed in MATLAB R2016a 
 
 %               Department of Computer Science and Engineering
 %               School of Engineering and Technology
@@ -19,13 +19,6 @@
 %                                       https://in.mathworks.com/matlabcentral/profile/authors/6240015-sajad-ahmad-rather                         
 %                                                                         
     
-
-%               
-
-
-
-
-
 
                               %-------------------------------------------%
                               %         Evaluate the population           %           
